@@ -1,0 +1,24 @@
+body{
+      background-color: rgb(5, 5, 5);
+}
+
+header{
+      background-image: url('2.jpg');
+      height:170vh;
+      background-size:cover;
+      background-position:center;
+}
+div{
+      font-size: large;
+      font-style: italic;
+      font-weight: bold;
+      border: 5px rgb(255, 251, 0) groove;
+}
+form{
+      border: 5px cyan ridge;
+}
+footer{
+      border: 5px rgb(255, 251, 0);
+      background-position: right;
+
+}
